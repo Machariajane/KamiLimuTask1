@@ -103,5 +103,5 @@ len(all_time_greats)
 
 
 
-Enough about dictionaries , let's go tell the english man we liked our Kamusi better.
+Enough about dictionaries , let's go tell Oxford we liked our Kamusi better.
 
