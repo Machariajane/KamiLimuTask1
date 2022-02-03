@@ -6,11 +6,12 @@
 If I am an Oxford dictionary I would ask why we are talking about unpleasantness but this is not Oxford plus we only know python dictionaries here .
 
 `TECH` GIT is an open-source software for tracking changes in any set of files. It allows you to see which changes were made, in which order and if its collaborative work ,who made the changes . This is  important to ensure data integrity and enhance speed especially in large projects i.e Operating system source codes. 
+
 It is baffling to learn that it was just  developed in 2005 by Linus Trovalds ,what was Microsoft using to see who changed the windows logo to a door last night and which git (oxford speaking) approved the change ?
 
 As a version control ,if there are any errors in a new rollout of the software ,you can use an earlier version to help you  solve the problem if not reverting entirely to the older version.You can in a sense 'turn back the clock' albeit fictiously.
 
-GIT is not the only software in version control,we have Mercurial ,subversion e.t.c its just that it is the most popular.
+GIT is not the only software in version control,we have Mercurial ,subversion ,it's just the most popular.
 
 
 ### What is GITHUB?
