@@ -6,11 +6,15 @@
 If I am an Oxford dictionary I would ask why we are talking about unpleasantness but this is not Oxford plus we only know python dictionaries here .
 
 `TECH` GIT is an open-source software for tracking changes in any set of files. It allows you to see which changes were made, in which order and if its collaborative work ,who made the changes . This is  important to ensure data integrity and enhance speed especially in large projects i.e Operating system source codes. 
+
+
 It is baffling to learn that it was just  developed in 2005 by Linus Trovalds ,what was Microsoft using to see who changed the windows logo to a door last night and which git (oxford speaking) approved the change ?
+
 
 As a version control ,if there are any errors in a new rollout of the software ,you can use an earlier version to help you  solve the problem if not reverting entirely to the older version.You can in a sense 'turn back the clock' albeit fictiously.
 
-GIT is not the only software in version control,we have Mercurial ,subversion e.t.c its just that it is the most popular.
+
+GIT is not the only software in version control,we have Mercurial ,subversion ,it's just the most popular.
 
 
 ### What is GITHUB?
@@ -18,7 +22,9 @@ GIT is not the only software in version control,we have Mercurial ,subversion e.
 GIT Version control runs on your machine and you can track changes locally.If your machine crashes though ,you lose all your files .
 If you do mind losing your work ,then you can host your files in a more secure server .This server could be a centralized cloud server which is what GITHUB is.
 
+
 GITHUB is a web based cloud service to host your files that you track with GIT .From this we can conclude that GIT can run without GITHUB ,but GITHUB can't say the same for itself.
+
 
 Alternatives to using GITHUB ,are BitBucket or Beanstalk.
 
@@ -33,7 +39,9 @@ Hmmm..I wonder what Oxford would say a dictionary is , or is it conceited to def
 
 `TECH`
 Python Dictionaries can be considered as associative arrays. We have one item (key ) that refers to another item (value).This unique pair of items is called a key : value pair. 
+
 They are written in curly brackets ``` { } ```
+
 Keys are used to refer to the value,and as we have learnt,they are unique so we cannot have a one key referrring to more than one value
 
 
@@ -103,5 +111,4 @@ len(all_time_greats)
 
 
 
-Enough about dictionaries , let's go tell Oxford we liked our Kamusi better.
-
+Enough about dictionaries, who would like to tell Oxford we liked our Kamusi better ?
